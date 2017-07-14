@@ -6,3 +6,4 @@ Git is so easy
 create a branch dev
 create new a branch featrue1 agian
 create new b branch double dev
+处理bug
